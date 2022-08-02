@@ -13,3 +13,6 @@ To do this, we used many different research methods such as:
   - Optimization through each testing
 ## III. RESEARCH OBJECT AND SCOPE
 Objects and scope of study: knowledge of Markov Decision Processing algorithm, knowledge of Machine Learning, knowledge of LSTM architecture, basic knowledge of stock trading market, knowledge of GOOGLE Colab tool to perform model building before and after applying the theory.
+## IV. RESULT
+![download1](https://user-images.githubusercontent.com/104005551/182422251-6a8b998d-0739-44be-8d23-043b3cdabf60.png)
+![download2](https://user-images.githubusercontent.com/104005551/182422256-a2a1d190-deb5-49da-aca8-ce244ec318ac.png)
